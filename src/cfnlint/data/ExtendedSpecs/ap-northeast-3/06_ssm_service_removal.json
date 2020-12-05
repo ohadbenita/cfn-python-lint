@@ -173,30 +173,6 @@
   },
   {
     "op": "remove",
-    "path": "/ResourceTypes/AWS::Lambda::Alias"
-  },
-  {
-    "op": "remove",
-    "path": "/ResourceTypes/AWS::Lambda::EventInvokeConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/ResourceTypes/AWS::Lambda::EventSourceMapping"
-  },
-  {
-    "op": "remove",
-    "path": "/ResourceTypes/AWS::Lambda::Function"
-  },
-  {
-    "op": "remove",
-    "path": "/ResourceTypes/AWS::Lambda::Permission"
-  },
-  {
-    "op": "remove",
-    "path": "/ResourceTypes/AWS::Lambda::Version"
-  },
-  {
-    "op": "remove",
     "path": "/ResourceTypes/AWS::OpsWorks::App"
   },
   {
@@ -870,70 +846,6 @@
   {
     "op": "remove",
     "path": "/PropertyTypes/AWS::KinesisFirehose::DeliveryStream.SplunkRetryOptions"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Alias.AliasRoutingConfiguration"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Alias.ProvisionedConcurrencyConfiguration"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Alias.VersionWeight"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::EventInvokeConfig.DestinationConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::EventInvokeConfig.OnFailure"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::EventInvokeConfig.OnSuccess"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::EventSourceMapping.DestinationConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::EventSourceMapping.OnFailure"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::EventSourceMapping.SourceAccessConfiguration"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Function.Code"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Function.DeadLetterConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Function.Environment"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Function.FileSystemConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Function.TracingConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Function.VpcConfig"
-  },
-  {
-    "op": "remove",
-    "path": "/PropertyTypes/AWS::Lambda::Version.ProvisionedConcurrencyConfiguration"
   },
   {
     "op": "remove",
